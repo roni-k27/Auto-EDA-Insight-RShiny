@@ -1,0 +1,121 @@
+ID_Transaksi,Kategori_Produk,Wilayah,Metode_Pembayaran,Harga_Satuan,Jumlah_Terjual,Diskon_Persen,Rating_Pelanggan,Total_Pendapatan
+TRX-1001,Fashion,DKI Jakarta,COD,95600.0,6,25.0,3.3,430200.0
+TRX-1002,Rumah Tangga,Jawa Timur,E-Wallet,84300.0,21,25.0,3.5,1327725.0
+TRX-1003,Makanan & Minuman,Jawa Barat,Kartu Kredit,458500.0,6,10.0,3.4,2475900.0
+TRX-1004,Makanan & Minuman,Jawa Barat,QRIS,176900.0,12,10.0,4.4,1910520.0
+TRX-1005,Elektronik,Jawa Barat,QRIS,55100.0,13,5.0,4.7,680485.0
+TRX-1006,Elektronik,Jawa Barat,E-Wallet,253300.0,13,15.0,,2798965.0
+TRX-1007,Elektronik,Jawa Tengah,Kartu Kredit,588600.0,15,0.0,3.3,8829000.0
+TRX-1008,Kesehatan,Jawa Barat,Kartu Kredit,274500.0,21,25.0,4.8,4323375.0
+TRX-1009,Makanan & Minuman,Jawa Timur,COD,46000.0,16,15.0,3.8,625600.0
+TRX-1010,Makanan & Minuman,Banten,Kartu Kredit,94900.0,22,20.0,3.9,1670240.0
+TRX-1011,Elektronik,Jawa Barat,Kartu Kredit,323500.0,68,25.0,3.4,5095125.0
+TRX-1012,Rumah Tangga,Jawa Tengah,Kartu Kredit,81200.0,11,25.0,4.5,669900.0
+TRX-1013,Kesehatan,Jawa Tengah,,181800.0,5,10.0,3.5,818100.0
+TRX-1014,Elektronik,Jawa Barat,COD,229200.0,4,0.0,4.2,916800.0
+TRX-1015,Elektronik,Banten,QRIS,69600.0,3,0.0,4.7,208800.0
+TRX-1016,Elektronik,Jawa Barat,E-Wallet,127800.0,19,20.0,3.4,1942560.0
+TRX-1017,Fashion,Jawa Tengah,QRIS,13800.0,20,20.0,4.2,220800.0
+TRX-1018,Fashion,DKI Jakarta,COD,65100.0,18,25.0,3.6,878850.0
+TRX-1019,Fashion,Jawa Timur,E-Wallet,111700.0,15,5.0,3.8,1591725.0
+TRX-1020,Elektronik,Jawa Tengah,COD,55600.0,9,10.0,,450360.0
+TRX-1021,Makanan & Minuman,Jawa Barat,Kartu Kredit,417800.0,17,10.0,3.8,6392340.0
+TRX-1022,Elektronik,Jawa Timur,E-Wallet,49000.0,14,25.0,4.4,514500.0
+TRX-1023,Elektronik,Jawa Barat,Kartu Kredit,97900.0,15,15.0,4.1,1248225.0
+TRX-1024,Fashion,Jawa Barat,QRIS,146000.0,1,5.0,4.3,138700.0
+TRX-1025,Fashion,DKI Jakarta,QRIS,365500.0,21,25.0,4.5,5756625.0
+TRX-1026,Kesehatan,Jawa Timur,E-Wallet,48800.0,22,5.0,4.2,1019920.0
+TRX-1027,Elektronik,Jawa Timur,E-Wallet,300800.0,22,5.0,4.3,6286720.0
+TRX-1028,Fashion,DKI Jakarta,COD,134200.0,3,5.0,4.2,382470.0
+TRX-1029,Makanan & Minuman,Jawa Tengah,COD,67000.0,16,25.0,3.9,804000.0
+TRX-1030,Elektronik,Jawa Barat,Kartu Kredit,184100.0,23,10.0,3.8,3810870.0
+TRX-1031,Makanan & Minuman,Banten,E-Wallet,153200.0,11,,4.8,1516680.0
+TRX-1032,Elektronik,Jawa Barat,QRIS,87500.0,12,5.0,4.3,997500.0
+TRX-1033,Elektronik,Jawa Barat,COD,139900.0,10,15.0,3.6,1189150.0
+TRX-1034,Rumah Tangga,Jawa Tengah,COD,101800.0,16,0.0,4.1,1628800.0
+TRX-1035,Rumah Tangga,Jawa Barat,QRIS,144300.0,8,25.0,3.8,865800.0
+TRX-1036,Kesehatan,DKI Jakarta,COD,211800.0,6,0.0,4.9,1270800.0
+TRX-1037,Fashion,DKI Jakarta,Kartu Kredit,404400.0,12,15.0,3.2,4124880.0
+TRX-1038,Elektronik,Jawa Timur,E-Wallet,56000.0,24,25.0,3.6,1008000.0
+TRX-1039,Makanan & Minuman,Banten,QRIS,593100.0,21,5.0,3.9,11832345.0
+TRX-1040,Fashion,Jawa Barat,E-Wallet,34000.0,8,10.0,4.1,244800.0
+TRX-1041,Elektronik,Jawa Barat,COD,119800.0,4,0.0,4.7,479200.0
+TRX-1042,Fashion,Jawa Tengah,COD,201200.0,8,20.0,3.4,1287680.0
+TRX-1043,Elektronik,DKI Jakarta,QRIS,162200.0,18,20.0,4.7,2335680.0
+TRX-1044,Rumah Tangga,Banten,Kartu Kredit,86200.0,5,15.0,3.3,366350.0
+TRX-1045,Elektronik,Jawa Timur,Transfer Bank,115200.0,9,5.0,,984960.0
+TRX-1046,Makanan & Minuman,DKI Jakarta,QRIS,94400.0,4,0.0,3.3,377600.0
+TRX-1047,Fashion,Jawa Timur,Transfer Bank,88200.0,22,5.0,3.2,1843380.0
+TRX-1048,Fashion,Jawa Tengah,Transfer Bank,241500.0,17,0.0,4.5,4105500.0
+TRX-1049,Fashion,Jawa Tengah,Kartu Kredit,171100.0,9,15.0,5.0,1308915.0
+TRX-1050,Elektronik,Jawa Barat,Transfer Bank,82000.0,1,15.0,4.8,69700.0
+TRX-1051,Rumah Tangga,Banten,Transfer Bank,250100.0,21,20.0,4.2,4201680.0
+TRX-1052,Kesehatan,Jawa Timur,Kartu Kredit,165200.0,20,5.0,4.9,3138800.0
+TRX-1053,Rumah Tangga,DKI Jakarta,Transfer Bank,235400.0,13,25.0,3.2,2295150.0
+TRX-1054,Kesehatan,Jawa Tengah,Transfer Bank,207100.0,16,20.0,5.0,2650880.0
+TRX-1055,Makanan & Minuman,Jawa Barat,Transfer Bank,74600.0,13,5.0,4.1,921310.0
+TRX-1056,Rumah Tangga,Jawa Barat,QRIS,90000.0,14,20.0,4.5,1008000.0
+TRX-1057,Elektronik,Jawa Timur,QRIS,224800.0,3,25.0,4.7,505800.0
+TRX-1058,Elektronik,Jawa Tengah,QRIS,204300.0,6,10.0,4.5,1103220.0
+TRX-1059,Elektronik,Banten,Kartu Kredit,131300.0,18,10.0,4.2,2127060.0
+TRX-1060,Fashion,Jawa Tengah,COD,144700.0,19,10.0,4.1,2474370.0
+TRX-1061,Fashion,Jawa Timur,Transfer Bank,325900.0,5,10.0,4.7,1466550.0
+TRX-1062,Elektronik,Jawa Timur,Transfer Bank,88100.0,15,0.0,3.6,1321500.0
+TRX-1063,Kesehatan,Jawa Tengah,Kartu Kredit,195400.0,2,10.0,4.9,351720.0
+TRX-1064,Fashion,Jawa Timur,Transfer Bank,115700.0,10,25.0,4.5,867750.0
+TRX-1065,Elektronik,Jawa Tengah,QRIS,114400.0,24,15.0,3.6,2333760.0
+TRX-1066,Fashion,DKI Jakarta,COD,287500.0,18,15.0,4.5,4398750.0
+TRX-1067,Elektronik,Jawa Tengah,E-Wallet,237500.0,13,0.0,4.2,3087500.0
+TRX-1068,Kesehatan,Jawa Tengah,,235500.0,5,10.0,4.5,1059750.0
+TRX-1069,Elektronik,Jawa Timur,QRIS,332300.0,23,10.0,4.6,6878610.0
+TRX-1070,Rumah Tangga,Jawa Timur,E-Wallet,135200.0,24,10.0,3.4,2920320.0
+TRX-1071,Kesehatan,Jawa Barat,COD,214800.0,1,20.0,4.1,171840.0
+TRX-1072,Elektronik,Jawa Barat,E-Wallet,107200.0,22,5.0,4.9,2240480.0
+TRX-1073,Elektronik,DKI Jakarta,QRIS,167200.0,1,20.0,3.8,133760.0
+TRX-1074,Kesehatan,Jawa Barat,E-Wallet,121600.0,18,5.0,4.3,2079360.0
+TRX-1075,Makanan & Minuman,Jawa Tengah,Kartu Kredit,142600.0,15,10.0,3.9,1925100.0
+TRX-1076,Makanan & Minuman,Jawa Timur,E-Wallet,202100.0,17,10.0,4.0,3092130.0
+TRX-1077,Kesehatan,Jawa Barat,Transfer Bank,75200.0,11,20.0,4.2,661760.0
+TRX-1078,Elektronik,Jawa Barat,Transfer Bank,576500.0,21,20.0,4.2,9685200.0
+TRX-1079,Fashion,DKI Jakarta,Kartu Kredit,65900.0,22,5.0,3.6,1377310.0
+TRX-1080,Elektronik,DKI Jakarta,QRIS,57000.0,17,15.0,4.4,823650.0
+TRX-1081,Kesehatan,Jawa Tengah,Transfer Bank,299700.0,13,5.0,3.4,3701295.0
+TRX-1082,Makanan & Minuman,Jawa Timur,COD,231900.0,1,20.0,3.4,185520.0
+TRX-1083,Fashion,DKI Jakarta,Transfer Bank,206300.0,2,25.0,3.2,309450.0
+TRX-1084,Elektronik,Jawa Barat,Transfer Bank,206900.0,9,20.0,3.4,1489680.0
+TRX-1085,Fashion,Jawa Timur,QRIS,132100.0,3,25.0,4.1,297225.0
+TRX-1086,Fashion,Jawa Timur,E-Wallet,71100.0,1,0.0,4.3,71100.0
+TRX-1087,Makanan & Minuman,Jawa Barat,Transfer Bank,140500.0,21,20.0,4.6,2360400.0
+TRX-1088,Makanan & Minuman,DKI Jakarta,Kartu Kredit,82900.0,16,0.0,3.4,1326400.0
+TRX-1089,Kesehatan,Jawa Barat,E-Wallet,263700.0,23,15.0,,5155335.0
+TRX-1090,Fashion,Jawa Timur,COD,120200.0,6,5.0,4.5,685140.0
+TRX-1091,Elektronik,Banten,QRIS,74800.0,17,25.0,3.9,953700.0
+TRX-1092,Makanan & Minuman,Banten,COD,106400.0,5,5.0,4.9,505400.0
+TRX-1093,Kesehatan,Jawa Tengah,E-Wallet,177900.0,5,0.0,5.0,889500.0
+TRX-1094,Makanan & Minuman,Jawa Barat,E-Wallet,89800.0,6,25.0,3.6,404100.0
+TRX-1095,Kesehatan,Jawa Barat,E-Wallet,74900.0,3,5.0,3.9,213465.0
+TRX-1096,Fashion,Jawa Tengah,COD,158000.0,21,,4.9,2654400.0
+TRX-1097,Fashion,Jawa Tengah,E-Wallet,158200.0,23,10.0,4.5,3274740.0
+TRX-1098,Fashion,Jawa Tengah,COD,93400.0,5,0.0,3.3,467000.0
+TRX-1099,Elektronik,Jawa Timur,E-Wallet,95800.0,21,5.0,4.6,1911210.0
+TRX-1100,Elektronik,Jawa Barat,Kartu Kredit,156800.0,5,0.0,4.7,784000.0
+TRX-1101,Elektronik,Jawa Timur,E-Wallet,48400.0,10,0.0,4.6,484000.0
+TRX-1102,Makanan & Minuman,Jawa Tengah,COD,49800.0,10,25.0,4.6,373500.0
+TRX-1103,Fashion,Jawa Barat,Transfer Bank,80600.0,19,25.0,4.7,1148550.0
+TRX-1104,Fashion,Jawa Timur,E-Wallet,114800.0,17,10.0,3.5,1756440.0
+TRX-1105,Rumah Tangga,Jawa Timur,Transfer Bank,165700.0,21,20.0,3.6,2783760.0
+TRX-1106,Elektronik,Jawa Tengah,Kartu Kredit,374300.0,14,0.0,4.3,5240200.0
+TRX-1107,Fashion,Jawa Barat,QRIS,242900.0,9,5.0,4.8,2076795.0
+TRX-1108,Kesehatan,Jawa Tengah,Kartu Kredit,119100.0,14,15.0,3.8,1417290.0
+TRX-1109,Elektronik,Jawa Barat,E-Wallet,131500.0,1,0.0,4.3,131500.0
+TRX-1110,Elektronik,Banten,Transfer Bank,66100.0,19,0.0,4.4,1255900.0
+TRX-1111,Elektronik,DKI Jakarta,Transfer Bank,131500.0,13,10.0,4.0,1538550.0
+TRX-1112,Elektronik,DKI Jakarta,COD,108900.0,13,20.0,4.5,1132560.0
+TRX-1113,Rumah Tangga,DKI Jakarta,Transfer Bank,167000.0,4,15.0,4.8,567800.0
+TRX-1114,Kesehatan,Jawa Tengah,COD,74700.0,1,25.0,4.3,56025.0
+TRX-1115,Makanan & Minuman,Banten,QRIS,191700.0,17,25.0,4.2,2444175.0
+TRX-1116,Kesehatan,Jawa Barat,E-Wallet,389600.0,8,5.0,4.0,2960960.0
+TRX-1117,Kesehatan,Jawa Timur,COD,123500.0,2,15.0,4.2,209950.0
+TRX-1118,Elektronik,Jawa Barat,QRIS,176500.0,8,25.0,3.8,1059000.0
+TRX-1119,Kesehatan,Jawa Timur,Transfer Bank,216000.0,7,5.0,3.9,1436400.0
+TRX-1120,Fashion,Jawa Barat,Transfer Bank,100600.0,2,20.0,4.2,160960.0

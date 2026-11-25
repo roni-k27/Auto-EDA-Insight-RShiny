@@ -1,0 +1,75 @@
+body, .content-wrapper, .right-side {
+  background-color: #0f172a !important;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+.content {
+  background-color: #0f172a !important;
+  padding: 24px !important;
+}
+
+.main-sidebar {
+  background-color: #1e293b !important;
+  border-right: 1px solid #334155;
+}
+
+.sidebar-menu li.active a,
+.sidebar-menu li a:hover {
+  background-color: #312e81 !important;
+  color: #ffffff !important;
+  border-left: 3px solid #818cf8 !important;
+}
+
+.main-header .navbar,
+.main-header .logo {
+  background-color: #1e293b !important;
+  color: #ffffff !important;
+  border-bottom: 1px solid #334155 !important;
+}
+
+.box {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.box-body {
+  padding: 0px !important;
+}
+
+table.dataTable thead th {
+  background-color: #1e293b !important;
+  color: #94a3b8 !important;
+  border-bottom: 1px solid #334155 !important;
+}
+
+table.dataTable tbody td {
+  background-color: #111827 !important;
+  color: #cbd5e1 !important;
+  border-bottom: 1px solid #1e293b !important;
+}
+
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_filter label,
+.dataTables_wrapper .dataTables_length label,
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  color: #94a3b8 !important;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}

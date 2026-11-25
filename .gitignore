@@ -1,0 +1,11 @@
+# R Session & History Files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary & OS Files
+.DS_Store
+Thumbs.db
+*.log
+rsconnect/
